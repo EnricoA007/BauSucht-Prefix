@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "category": 2,
+  "version": 1.0,
+  "icon": "https://gamepedia.cursecdn.com/minecraft_de_gamepedia/3/35/Buch.png?version=f3a7e60f6114838faae9e09ae7d6fffe",
+  "name": "BauSucht-Prefix",
+  "author": "Enrico_A007",
+  "description": "Erstelle einen Prefix vor deiner Nachricht | Usage: #prefix <Prefix/reset>",
+  "mainClass": "net.magicgames.addon.Main"
+}
